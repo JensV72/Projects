@@ -19,7 +19,11 @@ How can we create an interactive art installation that allows deaf children to e
 TouchDesigner · SketchUp · Python · Google’s AI Sign Language Detection
 
 **Demo / Visuals:**  
-//Hier fotos en gifs
+### Demo 1st Iteration
+![demo project](./assets/demohvt.gif)
+
+### Set Up Project
+![set up project](./assets/setup.png)
 
 ---
 
@@ -39,7 +43,7 @@ React Native · Expo Go · mongoDB
 
 **Designs:**
 
-### start Screen  
+### Start Screen  
 ![startscreen](./assets/startscreen.png)
 
 ### Roltie?  
@@ -54,7 +58,7 @@ React Native · Expo Go · mongoDB
 ### Validation
 ![validation](./assets/check.png)
 
-### Alternitive stations
+### Alternitive Stations
 ![alternitive stations](./assets/alternitive.png)
 
 ---
