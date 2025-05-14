@@ -39,21 +39,23 @@ React Native · Expo Go · mongoDB
 
 **Designs:**
 
-### Home Screen  
-//home
+### start Screen  
+![startscreen](./assets/startscreen.png)
 
 ### Roltie?  
-//roltie
+![pages](./assets/page's.png)
 
 ### Report
-//report
+![report](./assets/report.png)
 
 ### Map
-//map
+![map](./assets/map.png)
 
 ### Validation
+![validation](./assets/check.png)
 
 ### Alternitive stations
+![alternitive stations](./assets/alternitive.png)
 
 ---
 
