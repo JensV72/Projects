@@ -37,6 +37,8 @@ TouchDesigner · Python · Custom Sign Language Recognition Mode
   <img src="assets/verdriet.gif" alt="Verdriet" width="500"/>
 </p>
 
+**More Info:** [View the full project on GitHub](https://github.com/yourusername/handen-vol-trots)
+
 ---
 
 ## Project 2: Roltie
@@ -73,7 +75,6 @@ React Native · Expo Go · mongoDB
 ### Alternitive Stations
 ![alternitive stations](./assets/alternitive.png)
 
-**More Info:** [View the full project on GitHub](https://github.com/yourusername/handen-vol-trots)
 
 ---
 
