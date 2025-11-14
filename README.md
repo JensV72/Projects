@@ -37,7 +37,7 @@ TouchDesigner · Python · Custom Sign Language Recognition Mode
   <img src="assets/verdriet.gif" alt="Verdriet" width="500"/>
 </p>
 
-**More Info:** [View the full project on GitHub](https://github.com/yourusername/handen-vol-trots)
+**More Info:** [View the full project on GitHub]([https://github.com/yourusername/handen-vol-trots](https://github.com/JensV72/Handen-Vol-Trots/blob/main/README.md))
 
 ---
 
