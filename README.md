@@ -9,21 +9,33 @@ This repository provides a visual and practical overview of the meaningful proje
 **Description:**  
 An innovative art installation that empowers deaf children to create visual art using sign language. Through the use of AI and TouchDesigner, the system translates hand gestures into interactive visuals, enabling a playful, accessible, and inclusive artistic experience.
 
-**Problem Statement:**  
-Sign language is often viewed as "different" or something that should adapt to the hearing world. This perception can affect how children experience their language and identity. By transforming sign language into visual art, this installation highlights the beauty and power of this form of communication — helping children feel proud of their unique way of expressing themselves.
+**Impact:**
 
-**Design Question:**  
-How can we create an interactive art installation that allows deaf children to express themselves freely and proudly through sign language?
+- Highlights the beauty and power of sign language
+
+- Encourages pride and self-expression in deaf children
+
+- Bridges communication and creativity between deaf and hearing audiences
 
 **Technology:**  
-TouchDesigner · SketchUp · Python · Google’s AI Sign Language Detection
+TouchDesigner · Python · Custom Sign Language Recognition Mode
 
 **Demo / Visuals:**  
-### Demo 1st Iteration
-![demo project](./assets/demohvt.gif)
 
-### Set Up Project
-![set up project](./assets/setup.png)
+### Blijdschap/euforie
+<p align="center">
+  <img src="assets/blijdschap.gif" alt="Blijdschap" width="500"/>
+</p>
+
+### Woede/haat
+<p align="center">
+  <img src="assets/woede.gif" alt="Woede" width="500"/>
+</p>
+
+### Verdriet/eenzaam
+<p align="center">
+  <img src="assets/verdriet.gif" alt="Verdriet" width="500"/>
+</p>
 
 ---
 
